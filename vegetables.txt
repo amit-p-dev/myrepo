@@ -6,3 +6,5 @@ Carrots
 Cabbage
 Spinach
 
+Capsicum
+
