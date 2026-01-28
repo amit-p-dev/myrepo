@@ -22,4 +22,4 @@ jobs:
           script: |
             cd /root/myrepo
             git pull
-            docker compose up -d --build
+            
