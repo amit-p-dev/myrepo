@@ -20,6 +20,6 @@ jobs:
           username: root
           key: ${{ secrets.SSH_KEY }}
           script: |
-            cd /root/myrepo
+            cd /home/amit/myrepo
             git pull
             
